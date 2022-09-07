@@ -1,0 +1,32 @@
+
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow  {
+    background-color: #FFC017; 
+
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid #414141;
+}
+
+.kckRsm {
+    width: 25px;
+    height: 25px;
+}
+
+.sari {
+    padding-bottom: 150px !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+.imgage {
+    width: 50px;
+    height: 30px;
+    border-radius: 100%;
+}
